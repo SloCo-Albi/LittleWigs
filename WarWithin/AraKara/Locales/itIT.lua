@@ -13,11 +13,11 @@ if L then
 	L.nerubian_hauler = "Trasportatrice Nerubiana"
 	L.winged_carrier = "Trasportatore Alato"
 
-	--L.avanoxx_warmup_trigger = "The Attendants have been silenced... something emerges!"
-	--L.custom_on_autotalk_desc = "|cFFFF0000Requires 25 skill in Khaz Algar Tailoring.|r Automatically select the NPC dialog option that grants you 'Silk Wrap' which you can use by clicking your extra action button."
+	L.avanoxx_warmup_trigger = "The Assistenti sono stati silenziati... qualcosa emerge!"
+	L.custom_on_autotalk_desc = "|cFFFF0000Richiede 25 di abilità in Sartoria Khaz Algar.|r Seleziona automaticamente l'opzioinne di dialogo NPC che dona 'Trappola di Seta' che puoi usare premendo il pulsante azione extra."
 end
 
 L = BigWigs:NewBossLocale("Anub'zekt", "itIT")
 if L then
-	--L.bloodstained_webmage_desc = "Anub'zekt summons a Bloodstained Webmage.\n\n{-28975}"
+	L.bloodstained_webmage_desc = "Anub'zekt chiama un Mago delle Tele Macchiato di Sangue.\n\n{-28975}"
 end
